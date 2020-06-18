@@ -8,7 +8,7 @@ Positions, reports, more details are available [on my website](http://biesiadami
 
 ## Table
 
-Click [here]().
+Click [here](https://github.com/mbiesiad/discoveries-biesiada/blob/master/table/discoveries.csv).
 
 This time, no ToC or CoC. That's rather 'personal' stuff. A lot of people are interested and courious about the Project, so I wrote some things (see links above).
 I could make another site or something, but I really appreciate a GitHub tables' appearance. :octocat:
