@@ -13,4 +13,6 @@ Click [here](https://github.com/mbiesiad/discoveries-biesiada/blob/master/table/
 This time, no ToC or CoC. That's rather 'personal' stuff. A lot of people are interested and courious about the Project, so I wrote some things (see links above).
 I could make another site or something, but I really appreciate a GitHub tables' appearance. :octocat:
 
+I try support the science as I can, so [here](https://soho.nascom.nasa.gov/) and [here](https://soho.nascom.nasa.gov/data/Theater/) are images.
+
 Best wishes. 🚀
