@@ -2,7 +2,7 @@
 
 | SOHO-3989             |  SOHO-3277 |
 :-------------------------:|:-------------------------:
-![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/na.jpg)  |  ![SOHO-3277](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-3277-c3.jpg)
+![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![SOHO-3277](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-3277-c3.jpg)
 
 | SOHO-3277             |  SOHO-3092 |
 :-------------------------:|:-------------------------:
