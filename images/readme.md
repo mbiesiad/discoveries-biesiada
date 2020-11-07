@@ -6,7 +6,7 @@
 
 | SOHO-4050             |  SOHO-4027 |
 :-------------------------:|:-------------------------:
-![SOHO-4050](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-4050.png)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
+![SOHO-4050](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-4050.png)  |  ![SOHO-4027](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-4027.png)
 
 | SOHO-4026             |  SOHO-4025 |
 :-------------------------:|:-------------------------:
