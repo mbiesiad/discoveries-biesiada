@@ -18,19 +18,19 @@
 
 | SOHO-4004             |  SOHO-4002 |
 :-------------------------:|:-------------------------:
-![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
+![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-4002.gif)
 
 | SOHO-3998             |  SOHO-3994 |
 :-------------------------:|:-------------------------:
-![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
+![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-3994.png)
 
 | SOHO-3993             |  SOHO-3991 |
 :-------------------------:|:-------------------------:
-![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
+![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-3993.png)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
 
 | SOHO-3989             |  SOHO-3277 |
 :-------------------------:|:-------------------------:
-![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![SOHO-3277](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-3277-c3.jpg)
+![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-3989.png)  |  ![SOHO-3277](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-3277-c3.jpg)
 
 | SOHO-3277             |  SOHO-3092 |
 :-------------------------:|:-------------------------:
