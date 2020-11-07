@@ -40,3 +40,7 @@
 :-------------------------:|:-------------------------:
 ![SOHO-2831](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-2991.jpg)  |  ![SOHO-2991](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-2831.jpg)
 
+Credits: ESA/NASA SOHO/LASCO; Source: [Sungrazer Project](https://sungrazer.nrl.navy.mil/)
+
+Red (C2), blue (C3).
+Positions & more details - see [here](https://biesiadamichal.com/), [here](https://soho.nascom.nasa.gov/) or [here](https://sungrazer.nrl.navy.mil/).
