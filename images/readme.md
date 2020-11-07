@@ -18,7 +18,7 @@
 
 | SOHO-4004             |  SOHO-4002 |
 :-------------------------:|:-------------------------:
-![SOHO-4004](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-4004.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
+![SOHO-4004](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-4004.jpg)  |  ![SOHO-4002](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-4002.jpg)
 
 | SOHO-3998             |  SOHO-3994 |
 :-------------------------:|:-------------------------:
