@@ -1,5 +1,33 @@
 # Images
 
+| SOHO-4066             |  SOHO-4053 |
+:-------------------------:|:-------------------------:
+![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
+
+| SOHO-4050             |  SOHO-4027 |
+:-------------------------:|:-------------------------:
+![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
+
+| SOHO-4026             |  SOHO-4025 |
+:-------------------------:|:-------------------------:
+![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
+
+| SOHO-4022             |  SOHO-4011 |
+:-------------------------:|:-------------------------:
+![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
+
+| SOHO-4004             |  SOHO-4002 |
+:-------------------------:|:-------------------------:
+![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
+
+| SOHO-3998             |  SOHO-3994 |
+:-------------------------:|:-------------------------:
+![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
+
+| SOHO-3993             |  SOHO-3991 |
+:-------------------------:|:-------------------------:
+![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
+
 | SOHO-3989             |  SOHO-3277 |
 :-------------------------:|:-------------------------:
 ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![SOHO-3277](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-3277-c3.jpg)
