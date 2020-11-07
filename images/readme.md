@@ -2,7 +2,7 @@
 
 | SOHO-4066             |  SOHO-4053 |
 :-------------------------:|:-------------------------:
-![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
+![SOHO-4066](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-4066.jpg)  |  ![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)
 
 | SOHO-4050             |  SOHO-4027 |
 :-------------------------:|:-------------------------:
