@@ -22,7 +22,7 @@
 
 | SOHO-3998             |  SOHO-3994 |
 :-------------------------:|:-------------------------:
-![N/A](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/NA.jpg)  |  ![SOHO-3994](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-3994.png)
+![SOHO-3998](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-3998.jpg)  |  ![SOHO-3994](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/discoveries/soho-3994.png)
 
 | SOHO-3993             |  SOHO-3991 |
 :-------------------------:|:-------------------------:
