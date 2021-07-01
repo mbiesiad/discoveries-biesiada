@@ -10,6 +10,8 @@ Positions, reports, more details are available [on my website](http://biesiadami
 
 Click [here](https://github.com/mbiesiad/discoveries-biesiada/blob/master/table/discoveries.csv).
 
+Click [here](https://github.com/mbiesiad/discoveries-biesiada/blob/master/table/discoveries.md) (markdown).
+
 Table with images [here](https://github.com/mbiesiad/discoveries-biesiada/blob/master/images/readme.md).
 
 This time, no ToC or CoC. That's rather 'personal' stuff. A lot of people are interested and courious about the Project, so I wrote some things (see links above).
