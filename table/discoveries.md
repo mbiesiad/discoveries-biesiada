@@ -1,11 +1,11 @@
 |Counter|Comet name|Type|Date|Tel|Note|
 | :-----: |:-----:| :-----:|:-----:|:-----:|:-----:|
-|35|SOHO-|Kreutz|2021-06-30|C2|
-|34|SOHO-|Kreutz|2021-06-27|C2 C3|
-|33|SOHO-|Kreutz|2021-06-27|C2 C3|
-|32|SOHO-|Kreutz|2021-06-13|C2|Nearly stellar; nicely condensed; very short tail; elongated nucleus
-|31|SOHO-|Kreutz|2021-06-13|C2 C3|Elongated; pretty bright nucleus with a short but obvious tail. A potential Kreutz II object based on coordinates
-|30|SOHO-|**Non-Group**|2021-05-14|C2|Slow-moving **non-group** comet
+|35|SOHO-4229|Kreutz|2021-06-30|C2|
+|34|SOHO-4223|Kreutz|2021-06-27|C2 C3|
+|33|SOHO-4222|Kreutz|2021-06-27|C2 C3|
+|32|SOHO-4209|Kreutz|2021-06-13|C2|Nearly stellar; nicely condensed; very short tail; elongated nucleus
+|31|SOHO-4208|Kreutz|2021-06-13|C2 C3|Elongated; pretty bright nucleus with a short but obvious tail. A potential Kreutz II object based on coordinates
+|30|SOHO-4192|**Non-Group**|2021-05-14|C2|Slow-moving **non-group** comet
 |29|SOHO-4148|Kreutz|2021-03-24|C3|Co-discovery with Peiyuan Sun
 |28|SOHO-4154|Kreutz|2021-03-06|C3|
 |27|SOHO-4116|Kreutz|2021-01-02|C3|
