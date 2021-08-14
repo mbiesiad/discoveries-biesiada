@@ -19,7 +19,7 @@ I could make another site or something, but I really appreciate a GitHub tables'
 
 I try support the science as I can, so [here](https://soho.nascom.nasa.gov/) and [here](https://soho.nascom.nasa.gov/data/Theater/) are images.
 
-PS. If you see the 'SOHO-' without a number, that means comet are waiting to be confirmed & for an official number (by Karl Battams, project' coordinator).
+PS. If you see the 'SOHO-' without a number, that means comet are waiting to be confirmed & for an official number (by [Karl Battams](https://twitter.com/SungrazerComets/), project' coordinator).
 
 I dedicate these discoveries to my Family & Friends which support me all the ways!
 
