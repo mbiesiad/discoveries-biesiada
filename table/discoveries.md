@@ -1,5 +1,6 @@
 |Counter|Comet name|Type|Date|Tel|Note|
 | :-----: |:-----:| :-----:|:-----:|:-----:|:-----:|
+|36|SOHO-|Kreutz|2021-10-16|C2|
 |35|SOHO-4229|Kreutz|2021-06-30|C2|
 |34|SOHO-4223|Kreutz|2021-06-27|C2 C3|
 |33|SOHO-4222|Kreutz|2021-06-27|C2 C3|
