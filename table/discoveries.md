@@ -1,6 +1,9 @@
 |Counter|Comet name|Type|Date|Tel|Note|
 | :-----: |:-----:| :-----:|:-----:|:-----:|:-----:|
-|36|SOHO-|Kreutz|2021-10-16|C2|
+|39|SOHO-|Kreutz|2021-10-16|C2|Co-discovery with Peiyuan Sun and Zhijian Xu
+|38|SOHO-4294|Kreutz|2021-10-16|C2|Co-discovery with R.Pickard
+|37|SOHO-4291|Kreutz|2021-10-16|C2|Co-discovery with Zesheng Yang
+|36|SOHO-4290|Kreutz|2021-10-16|C2|Co-discovery with M.Uchina
 |35|SOHO-4229|Kreutz|2021-06-30|C2|
 |34|SOHO-4223|Kreutz|2021-06-27|C2 C3|
 |33|SOHO-4222|Kreutz|2021-06-27|C2 C3|
