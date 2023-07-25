@@ -1,6 +1,6 @@
 |Counter|Comet name|Type|Date|Tel|Note|
 | :-----: |:-----:| :-----:|:-----:|:-----:|:-----:|
-|40|SOHO-|Kreutz|2023-05-02|C2|
+|40|SOHO-4694|Kreutz|2023-05-02|C2|
 |39|SOHO-4404|Kreutz|2022-03-25|C2|Co-discovery with Peiyuan Sun and Zhijian Xu
 |38|SOHO-4294|Kreutz|2021-10-22|C2|Co-discovery with R.Pickard
 |37|SOHO-4291|Kreutz|2021-10-18|C2|Co-discovery with Zesheng Yang
