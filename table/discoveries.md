@@ -1,5 +1,6 @@
 |Counter|Comet name|Type|Date|Tel|Note|
 | :-----: |:-----:| :-----:|:-----:|:-----:|:-----:|
+|41|SOHO-4978|Kreutz|2024-02-01|C3 C2A C2|Co-discovery with Hanjie Tan / Jiangao Ruan / Eryk Banach
 |40|SOHO-4694|Kreutz|2023-05-02|C2|
 |39|SOHO-4404|Kreutz|2022-03-25|C2|Co-discovery with Peiyuan Sun and Zhijian Xu
 |38|SOHO-4294|Kreutz|2021-10-22|C2|Co-discovery with R.Pickard
