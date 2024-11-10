@@ -4,7 +4,7 @@ The main goal of this project is keep a data about SOHO comets discovered by me.
 
 More info about the Project you can found [here](https://github.com/mbiesiad/nasa-comets), prepared by me.
 
-Positions, reports, more details are available [on my website](https://biesiadamichal.com/).
+Positions, reports, more details are available [on my website](https://biesiadamichal.wordpress.com/).
 
 ## Table
 
