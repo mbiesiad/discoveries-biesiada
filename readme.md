@@ -22,3 +22,7 @@ PS. If you see the 'SOHO-' without a number, that means comet are waiting to be 
 I dedicate these discoveries to my Family & Friends which support me all the ways!
 
 Best wishes. 🚀
+
+---
+
+My contributions to citizen science projects - [dedicated repo here.](https://github.com/mbiesiad/citizen-science)
